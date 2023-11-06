@@ -1,0 +1,15 @@
+.PessoaContainer img{
+    filter:grayscale()
+    
+}
+
+.PessoaContainer{
+    color: white;
+    background-image: url('https://th.bing.com/th/id/R.2e535ff3f42eaefdb3b7c08282b4d2fd?rik=C%2byvJJ%2bTg%2bfx0A&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f03%2fMoon-Vector-PNG.png&ehk=pUTb15hZ2yOcQnH4JeKBuMNhCGGu6FRg0eaNuE%2fOpSg%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 100%;
+
+}

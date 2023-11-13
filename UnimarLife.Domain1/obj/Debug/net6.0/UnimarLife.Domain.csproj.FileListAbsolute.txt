@@ -1,0 +1,12 @@
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\bin\Debug\net6.0\UnimarLife.Domain.deps.json
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\bin\Debug\net6.0\UnimarLife.Domain.dll
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\bin\Debug\net6.0\UnimarLife.Domain.pdb
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\UnimarLife.Domain.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\UnimarLife.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\UnimarLife.Domain.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\UnimarLife.Domain.AssemblyInfo.cs
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\UnimarLife.Domain.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\UnimarLife.Domain.dll
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\refint\UnimarLife.Domain.dll
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\UnimarLife.Domain.pdb
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Domain1\obj\Debug\net6.0\ref\UnimarLife.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\bin\Debug\net6.0\UnimarLife.Infra.MemoryDb.deps.json
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\bin\Debug\net6.0\UnimarLife.Infra.MemoryDb.dll
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\bin\Debug\net6.0\UnimarLife.Infra.MemoryDb.pdb
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\bin\Debug\net6.0\UnimarLife.Domain.dll
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\bin\Debug\net6.0\UnimarLife.Domain.pdb
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.dll
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\refint\UnimarLife.Infra.MemoryDb.dll
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\UnimarLife.Infra.MemoryDb.pdb
+C:\Users\John\Desktop\UnimarLife\UnimarLife.Infra1\obj\Debug\net6.0\ref\UnimarLife.Infra.MemoryDb.dll
